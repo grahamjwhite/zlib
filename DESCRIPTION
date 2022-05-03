@@ -1,0 +1,13 @@
+Package: zlib
+Type: Package
+Title: File compression and decompression using the zlib library
+Version: 0.0.1
+Date: 2022-04-21
+Author: Graham White
+Maintainer: Your Name <grazmo@gmail.com>
+Description: Performs file compression and decompression using zlib and gzip formats.
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.7)
+LinkingTo: Rcpp
+RoxygenNote: 7.1.2
+Encoding: UTF-8
